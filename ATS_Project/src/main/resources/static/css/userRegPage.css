@@ -1,0 +1,35 @@
+.container {
+	max-width: 540px;
+	width: 500px;
+	border: 1px solid blue;
+	border-radius: 7px;
+	box-shadow: 5px 17px 10px #956d6d;
+	background: #fff;
+}
+
+.text-info {
+	color: #17a2b8 !important;
+	font-weight: bold;
+}
+
+.back {
+	margin-top: 10px;
+}
+.error{
+	color: red;
+	
+}
+.footer {
+	text-align: center;
+	color: #fff;
+	z-index: 100000 !important;
+}
+label{
+    margin-bottom: .25rem;
+}
+.form-control{
+    height: calc(1em + .50rem + 2px);
+    line-height: 1;
+    font-size: 0.90rem;
+    color: black !important;
+}

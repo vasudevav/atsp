@@ -1,0 +1,15 @@
+
+ Hi <b>{FIRST_NAME} {LAST_NAME}</b>,
+
+ <p>Click below Link and  enter Temporary password and
+  after create new  password</p><br>
+ 
+ 
+ Temporary Password : <b>{TEMP_PWD}</b><br><br>
+ 
+ <a href="http://localhost:9090/ATSApplication/unlock/index?email={EMAIL}" target="_self">
+ <font size="4">Click Here To Un-Lock</font>
+ </a><br><br>
+ Thanks,<br>
+ ATS Team.<br><br>
+<img src="cid:logoImage" width="200px" height="70px">
